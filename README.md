@@ -2,7 +2,10 @@
 
 ### [Go to Projects Page](https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python/blob/master/README.md)
 
-# ML Visually Compare 3 Models Performance In a Graph: RFM Analysis, ML Model K-Means, Cohort Analysis
+# ML Visually Compare 3 different Analysis Performance In a Graph: 
+  - [x] RFM Analysis, 
+  - [x] ML Model K-Means, 
+  - [x] Cohort Analysis
 
 01. [ML-RFM Customer Segmentation & Cohort Analysis Project](./Customer_Segmentation_Student_Notebook_Capstone_1_V2.ipynb)
 
